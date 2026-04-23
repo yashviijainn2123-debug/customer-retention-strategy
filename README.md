@@ -53,7 +53,7 @@ The dashboard combines key performance indicators, data visualization, and segme
 ## 📊 Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/KPIdashboard.png)
+![Dashboard](images/KPI dashboard.png)
 
 ### Engagement vs Churn
 ![Engagement](images/EngagementvsChurn.png)
@@ -90,7 +90,7 @@ The dashboard combines key performance indicators, data visualization, and segme
 ## 📄 Research Paper
 
 The complete research paper is included in this repository:
-**research_paper.pdf**
+**Customer Retention Strategy Research Paper.pdf**
 
 ---
 
