@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-matplotlip
+matplotlib
 seaborn
 sickit-learn
