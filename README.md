@@ -47,7 +47,9 @@ The dashboard combines key performance indicators, data visualization, and segme
 - Seaborn  
 
 ---
-
+## Live Demo
+Click here to view the deployed app:
+https://customer-retention-strategy-umey9kdduov8sowtrvcvbf.streamlit.app/
 ---
 
 ## 📊 Screenshots
