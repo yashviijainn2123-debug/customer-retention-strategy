@@ -53,20 +53,20 @@ The dashboard combines key performance indicators, data visualization, and segme
 ## 📊 Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/KPI dashboard.png)
+![Dashboard](KPIdashboard.png)
 
 ### Engagement vs Churn
-![Engagement](images/EngagementvsChurn.png)
+![Engagement](EngagementvsChurn.png)
 
 ### Product Utilization
-![Products](images/ProductUtilisation.png)
+![Products](ProductUtilisation.png)
 
 ### Customer Segmentation
-![Segmentation](images/Retention&Segmentation.png)
+![Segmentation](Retention&Segmentation.png)
 
 ### Balance Distribution
-![Balance](images/FinancialRisk1.png)
-![Balance](images/FinancialRisk2.png)
+![Balance](FinancialRisk1.png)
+![Balance](FinancialRisk2.png)
 ---
 
 ## 🔍 Key Insights
